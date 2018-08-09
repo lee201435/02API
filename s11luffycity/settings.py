@@ -134,3 +134,5 @@ REST_FRAMEWORK = {
 
 CORS_METHODS = 'PUT, DELETE, POST'
 CORS_HEADERS = 'Content-Type,Json'
+
+COURSE_KRY = 'courseInfo_%s_%s'

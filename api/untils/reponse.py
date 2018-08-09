@@ -10,4 +10,3 @@ class ResponseDict:
 
     def get_error(self, e):
         self.error = e
-        self.code = 500
